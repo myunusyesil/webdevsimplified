@@ -1,0 +1,44 @@
+{
+    "music": [
+        {
+            "id": 1,
+            "name": "Album 1 Test",
+            "price": 129999,
+            "imgName": "ironmaiden1.png"
+        },
+        {
+            "id": 2,
+            "name": "Album 2",
+            "price": 1599,
+            "imgName": "iron-maiden-2.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Album 3",
+            "price": 1599,
+            "imgName": "ironmaiden3.jfif"
+        },
+        {
+            "id": 3,
+            "name": "Album 4",
+            "price": 2199,
+            "imgName": "ironmaiden4.jfif"
+        }
+
+    ],
+    "merch": [
+        {
+            "id": 5,
+            "name": "T-Shirt",
+            "price": 1099,
+            "imgName": "ironmaiden-tshirt.jfif"
+        },
+        {
+            "id": 6,
+            "name": "Cup",
+            "price": 1299,
+            "imgName": "ironmaiden_logo_enamel_mug_lg.webp"
+        }
+    ]
+
+}
